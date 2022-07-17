@@ -13,7 +13,10 @@
 ##
   
 <div>
-  <a href="https://www.linkedin.com/in/mateus-moura-domingos-462607243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/theuz1nh0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<div>
+  <a href="https://www.frontendmentor.io/profile/Theuz1nh0" target="_blank"><img src="https://thaysagomes.netlify.app/static/media/fem-bg.efc343f0.svg" target="_blank"></a>
 </div>
 
 ##
