@@ -20,4 +20,8 @@
 
 <p>Livros que estou lendo atualmente:</p>
   <a href="https://github.com/Theuz1nh0">
+  <img align="center" alt="Mateus-JavaScript" height="100" width="70" src="https://images-na.ssl-images-amazon.com/images/I/71X7hMhMEUL.jpg"/>
+
+<p>Livros que termei de ler:</p>
+  <a href="https://github.com/Theuz1nh0">
   <img align="center" alt="Mateus-HTML" height="100" width="70" src="https://m.media-amazon.com/images/I/41+axHNoWBL.jpg"/>
