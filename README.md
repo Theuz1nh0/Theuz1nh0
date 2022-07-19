@@ -19,11 +19,11 @@
 ##
 
 <p>Livros que estou lendo atualmente:</p>
-  <a href="https://github.com/Theuz1nh0">
+  <a href="https://www.amazon.com.br/L%C3%B3gica-Programa%C3%A7%C3%A3o-Algoritmos-com-JavaScript/dp/6586057906">
   <img align="center" alt="Mateus-JavaScript" height="100" width="70" src="https://images-na.ssl-images-amazon.com/images/I/71X7hMhMEUL.jpg"/>
   </a>
 
 <p>Livros que termei de ler:</p>
-  <a href="https://github.com/Theuz1nh0">
+  <a href="https://www.amazon.com.br/HTML5-CSS3-Domine-web-futuro-ebook/dp/B00VAALZ94">
   <img align="center" alt="Mateus-HTML" height="100" width="70" src="https://m.media-amazon.com/images/I/41+axHNoWBL.jpg"/>
   </a>
