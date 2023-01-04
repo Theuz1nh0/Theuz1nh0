@@ -1,14 +1,7 @@
 ### Olá! eu sou o Mateus Moura
 
-<div align="center">
-  <a href="https://github.com/Theuz1nh0">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=Theuz1nh0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theuz1nh0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theuz1nh0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuz1nh0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
   
