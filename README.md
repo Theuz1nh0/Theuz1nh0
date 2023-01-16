@@ -1,12 +1,4 @@
 ### Olá! eu sou o Mateus Moura
-<div>
-   <a src='https://github.com/anuraghazra/github-readme-stats'>
-    <img align="center" width='50%' src='https://github-readme-stats.vercel.app/api?username=Theuz1nh0&show_icons=true&theme=radical'/>
-  </a> 
-  <a src='https://github.com/anuraghazra/github-readme-stats'>
-    <img align="center" width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Theuz1nh0&layout=compact&theme=radical'/>
-  </a>  
-</div>
 
 ##
   
