@@ -14,6 +14,9 @@
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" style="height: 28px;">
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" style="height: 28px;">
+  
 </div><br/>
 
 Apaixonado por tecnologia, procurando sempre novos desafios. Cursando Analise e Desenvolvimento de Sistemas
