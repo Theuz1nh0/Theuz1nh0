@@ -3,8 +3,18 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theuz1nh0/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateus.md1902@gmail.com)
 
-![Theuz1nh0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Theuz1nh0&custom_title=Theuz1nh0+Github+Status&include_all_commits=true&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuz1nh0&layout=compact&theme=highcontrast)
+<p>
+  <img
+    alt="GitHub Stats"
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Theuz1nh0&custom_title=Theuz1nh0+Github+Status&include_all_commits=true&show_icons=true&theme=highcontrast&locale=pt-br"
+  />
+  <img 
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Theuz1nh0&layout=compact&theme=highcontrast&locale=pt-br"
+  />
+</p>
 
 ## Tecnologias que eu uso no meu dia
 
